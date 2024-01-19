@@ -1,5 +1,5 @@
-<div id="header" align="center">
-![Header](github-header-image.png)
+<div id="header">
+<img src="github-header-image.png" alt="Banner"/>
 
 **I'm an aspiring Android Developer looking into integrating AI with Android!**
 </div>
@@ -13,7 +13,7 @@
 
 - :zap: In my free time, I solve problems on LeetCode and try my best to keep up with Android's constant deprecations 😟
 
-- :mailbox:Talk to me: &ensp; <a href="mailto:harveytseng2@gmail.com">harveytseng2@gmail.com</a>
+- :mailbox:Talk to me: <a href="mailto:harveytseng2@gmail.com">harveytseng2@gmail.com</a>
   
 </div>
 
