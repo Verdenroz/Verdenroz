@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h1> Hi 👋 I'm Harvey Tseng!</h1>
+![Header](github-header-image.png)
 
 **I'm an aspiring Android Developer looking into integrating AI with Android!**
 </div>
