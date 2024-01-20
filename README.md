@@ -1,11 +1,11 @@
 <div id="header">
-<img src="github-header-image.png" alt="Banner"/>
+  <img src="github-header-image.png" alt="Banner"/>
 
-**I'm an aspiring Android Developer looking into integrating AI with Android!**
+  **I'm an aspiring Android Developer looking into integrating AI with Android!**
 </div>
 
 <div id="about">
-<h2> A bit more about me 😃</h2>
+  <h2> A bit more about me 😃</h2>
 
 - :telescope: I’m working as a math tutor at SUNY Farmingdale
   
@@ -14,11 +14,13 @@
 - :zap: In my free time, I solve problems on LeetCode and try my best to keep up with Android's constant deprecations 😟
 
 - :mailbox:Talk to me: <a href="mailto:harveytseng2@gmail.com">harveytseng2@gmail.com</a>
+
+- :computer: Even more about me at [my website](https://verdenroz.github.io/portfolio/)
   
 </div>
 
 <div id="socials">
-<h2>Find me:</h2>
+  <h2>Find me:</h2>
   <a target="_blank" href="https://www.linkedin.com/in/harvey-tseng">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -26,7 +28,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="skills">
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,materialui,figma,firebase,python,html,css,javascript,sqlite,vscode&theme=dark" alt="Kotlin, Java, Android Studio, MaterialUi, Figma, Firebase, Python, HTML, CSS, Javascript, SQLite, Vscode">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,materialui,figma,firebase,python,html,css,javascript,sqlite,vscode&theme=dark" alt="Kotlin, Java, Android Studio, MaterialUi, Figma, Firebase, Python, HTML, CSS, Javascript, SQLite, Vscode">
 </div>
 
 <!--
