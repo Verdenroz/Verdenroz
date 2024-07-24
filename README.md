@@ -15,7 +15,7 @@
 
 - :mailbox:Talk to me: <a href="mailto:harveytseng2@gmail.com">harveytseng2@gmail.com</a>
 
-- :computer: Even more about me at [my website](https://verdenroz.github.io/portfolio/)
+- :computer: Even more about me at [my website](https://www.harveytseng.com/)
   
 </div>
 
@@ -28,7 +28,11 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="skills">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,materialui,figma,firebase,python,html,css,javascript,sqlite,vscode&theme=dark" alt="Kotlin, Java, Android Studio, MaterialUi, Figma, Firebase, Python, HTML, CSS, Javascript, SQLite, Vscode">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase&theme=dark" alt="Skills Icons">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,fastapi,aws,redis&theme=dark" alt="Skills Icons">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vite,tailwind&theme=dark" alt="Skills Icons">
 </div>
 
 <!--
